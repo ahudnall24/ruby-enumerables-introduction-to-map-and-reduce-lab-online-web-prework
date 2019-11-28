@@ -7,12 +7,13 @@ map_to_no_change(1[1,2,3])
 
 
 
-map_to_double(2_array)
+map_to_double(2[1,2,3])
+  => [2,4,6]
 
 
 
 
-map_to_square(source_array)
+map_to_square(_array)
 
 
 
