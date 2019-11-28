@@ -13,7 +13,9 @@ map_to_double(2[1,2,3])
 
 
 
-map_to_square(_array)
+map_to_square(sqrt[1,4,9])
+  => [1,2,3]
+
 
 
 
