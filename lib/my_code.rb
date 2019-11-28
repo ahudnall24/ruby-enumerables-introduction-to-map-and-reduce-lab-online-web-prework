@@ -21,7 +21,7 @@ map_to_square(sqrt[1,4,9])
 
 
 reduce_to_total(1[1,2,3],0)
-
+  => [6]
 
 
 reduce_to_all_true(source_array)
