@@ -24,14 +24,16 @@ reduce_to_total(1[1,2,3],0)
   => [6]
 
 
-reduce_to_all_true(source_array)
+reduce_to_all_true(2[2,4,8,16], only multiples of 2)
+  => [2,4,8,16]
 
 
 
 
 
 
-reduce_to_any_true(source_array)
+reduce_to_any_true(1[1,2,3], only odd integers)
+  => [1,3]
 
 
 
