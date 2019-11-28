@@ -20,7 +20,7 @@ map_to_square(sqrt[1,4,9])
 
 
 
-reduce_to_total(source_array, starting_point)
+reduce_to_total(1[1,2,3],0)
 
 
 
